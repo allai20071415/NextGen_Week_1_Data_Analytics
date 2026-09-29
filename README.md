@@ -61,7 +61,5 @@ Basic analysis was performed using spreadsheet tools to understand:
 ```text
 Week-1/
 │
-├── week1_raw_data.csv
-├── week1_cleaned_data.csv
 ├── Week_1_Data_Entry_Analysis.xlsx
 └── Week_1_Report.md
